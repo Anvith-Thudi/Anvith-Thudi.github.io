@@ -43,4 +43,14 @@ a:hover {
     text-decoration: underline;
   }
 
-    
+b {
+    color: mediumred;
+  }
+
+b:link {
+    text-decoration: none;
+  }
+
+b:hover {
+    text-decoration: underline;
+  }
