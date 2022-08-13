@@ -43,14 +43,14 @@ a:hover {
     text-decoration: underline;
   }
 
-b {
+a2 {
     color: red;
   }
 
-b:link {
+a2:link {
     text-decoration: none;
   }
 
-b:hover {
+a2:hover {
     text-decoration: underline;
   }
