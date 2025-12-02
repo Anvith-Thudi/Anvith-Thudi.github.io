@@ -2,8 +2,6 @@ body {
         background-color:white;
         padding: 0.5vw;
         margin-bottom: 0;
-        margin-left: 2vw;
-        margin-right: 2vw;
     }
 
 h1 {
@@ -56,5 +54,6 @@ a2:link {
 a2:hover {
     text-decoration: underline;
   }
+
 
 
