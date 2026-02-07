@@ -2,14 +2,14 @@ body {
         background-color:white;
         padding: 0.5vw;
         margin-bottom: 0;
-        margin-left: 2vw;
-        margin-righ: 2vw;
+        margin-left: 3vw;
+        margin-righ: 3vw;
     }
 
 h1 {
     text-align: center;
     margin-bottom: 0.5vw;
-    font-size: 200%;
+    font-size: 250%;
 }
 div.a {
     text-align: center;
@@ -21,7 +21,7 @@ div.a {
 h2 {
     margin-bottom: 0.2vw;
     margin-top: 3.0vw;
-    font-size: 150%;
+    font-size: 200%;
 }
 
 div.m {
@@ -58,6 +58,7 @@ a2:link {
 a2:hover {
     text-decoration: underline;
   }
+
 
 
 
