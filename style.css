@@ -3,7 +3,7 @@ body {
         padding: 0.5vw;
         margin-bottom: 0;
         margin-left: 5vw;
-        margin-righ: 5vw;
+        margin-right: 5vw;
     }
 
 h1 {
@@ -59,6 +59,7 @@ a2:link {
 a2:hover {
     text-decoration: underline;
   }
+
 
 
 
