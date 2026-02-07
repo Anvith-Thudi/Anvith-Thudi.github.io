@@ -18,7 +18,7 @@ div.a {
     margin-bottom: 1vw;
     margin-left: 1vw;
     margin-right: 1vw;
-    width: 80vw
+    width: 70vw
 }
 
 h2 {
@@ -63,6 +63,7 @@ a2:link {
 a2:hover {
     text-decoration: underline;
   }
+
 
 
 
