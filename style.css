@@ -33,6 +33,7 @@ div.m {
 
 h3 {
     font-size: 120%;
+    font-weight: normal;
 }
 
 a {
@@ -58,6 +59,7 @@ a2:link {
 a2:hover {
     text-decoration: underline;
   }
+
 
 
 
