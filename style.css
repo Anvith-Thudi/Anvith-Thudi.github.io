@@ -20,6 +20,14 @@ div.a {
     margin-right: 3vw;
 }
 
+div.b {
+    text-align: center;
+    margin-bottom: 1vw;
+    margin-top: 2vw;
+    margin-left: 3vw;
+    margin-right: 3vw;
+}
+
 h2 {
     margin-bottom: 0.2vw;
     margin-top: 3.0vw;
@@ -62,6 +70,7 @@ a2:link {
 a2:hover {
     text-decoration: underline;
   }
+
 
 
 
