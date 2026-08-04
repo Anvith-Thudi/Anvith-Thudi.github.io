@@ -73,7 +73,7 @@ a2:hover {
   }
   
 .video-container {
-    flex: 1 1 50%;  /* Allows containers to grow up to max-width */
+    flex: 1 1 25%;  /* Allows containers to grow up to max-width */
     min-width: 0;
     aspect-ratio: 16 / 9;
   }
