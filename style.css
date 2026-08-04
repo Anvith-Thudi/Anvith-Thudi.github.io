@@ -63,6 +63,29 @@ a2:hover {
     text-decoration: underline;
   }
 
+.video-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.video-container {
+    flex: 1 1 450px; /* Expands evenly, wraps on smaller screens */
+    max-width: 560px;
+    aspect-ratio: 16 / 9;
+}
+
+.video-container iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+    border-radius: 8px;
+}
+
+
 
 
 
