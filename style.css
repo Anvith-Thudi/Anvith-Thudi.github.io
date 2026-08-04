@@ -69,12 +69,13 @@ a2:hover {
     gap: 16px;
     justify-content: center;
     width: 100%;
-    margin: 0 auto;
+    margin-top: 1.0vw;
+    margin-bottom: 1.0vw;
   }
   
 .video-container {
-    flex: 1 1 15%;  /* Allows containers to grow up to max-width */
-    max-width: 25%;
+    flex: 0 0 22%;  /* Allows containers to grow up to max-width */
+    max-width: 22%;
     min-width: 0;
     aspect-ratio: 16 / 9;
   }
