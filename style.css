@@ -31,6 +31,8 @@ div.b {
 h2 {
     margin-bottom: 0.2vw;
     margin-top: 3.0vw;
+    margin-left: 3vw;
+    margin-right: 3vw;
     font-size: 200%;
     font-weight: normal;
 }
@@ -45,6 +47,47 @@ div.m {
 h3 {
     font-size: 120%;
     font-weight: normal;
+    margin-left: 3vw;
+    margin-right: 3vw;
+}
+
+p {
+    margin-left: 3vw;
+    margin-right: 3vw;
+}
+
+ol {
+    margin-left: 3.5vw;
+    margin-right: 3.5vw;
+}
+
+details.dropdown-section {
+    margin-top: 3.0vw;
+}
+
+details.dropdown-section ul {
+    margin-left: 3.5vw;
+    margin-right: 3.5vw;
+}
+
+details.dropdown-section > summary {
+    cursor: pointer;
+    margin-bottom: 0.2vw;
+    list-style: none;
+    text-align: center;
+}
+
+details.dropdown-section > summary::-webkit-details-marker {
+    display: none;
+}
+
+details.dropdown-section > summary h2 {
+    display: inline;
+    margin: 0 3vw;
+}
+
+details.dropdown-section > summary:hover h2 {
+    text-decoration: underline;
 }
 
 a {
