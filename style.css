@@ -5,21 +5,23 @@ body {
         margin-left: 8vw;
         margin-right: 8vw;
         line-height: 1.4;
+        font-family: "EB Garamond", Garamond, Baskerville, "Times New Roman", serif;
     }
 
 h1 {
     text-align: center;
-    margin-bottom: 0.5vw;
-    font-size: 250%;
+    margin-bottom: 1.5vw;
+    font-size: 350%;
     font-weight: normal;
 }
 
 div.a {
     text-align: center;
     margin-top:1vw;
-    margin-bottom: 2.4vw;
+    margin-bottom: 2.8vw;
     margin-left: 3vw;
     margin-right: 3vw;
+    font-size: 130%;
 }
 
 .icon-link {
@@ -35,6 +37,7 @@ div.b {
     margin-bottom: 2vw;
     margin-left: 3vw;
     margin-right: 3vw;
+    font-size: 110%;
 }
 
 h2 {
@@ -42,7 +45,7 @@ h2 {
     margin-top: 3.0vw;
     margin-left: 3vw;
     margin-right: 3vw;
-    font-size: 200%;
+    font-size: 250%;
     font-weight: normal;
 }
 
@@ -54,7 +57,7 @@ div.m {
 }
 
 h3 {
-    font-size: 120%;
+    font-size: 150%;
     font-weight: normal;
     margin-left: 3vw;
     margin-right: 3vw;
@@ -63,6 +66,7 @@ h3 {
 p {
     margin-left: 3vw;
     margin-right: 3vw;
+    font-size: 110%;
 }
 
 ol {
